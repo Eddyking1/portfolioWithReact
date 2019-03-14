@@ -25,7 +25,6 @@ const ContentWrap = styled.div`
     width: 100%;
     background: transparent;
     padding: 40px 0px;
-
     animation: fades 2.5s;
 `;
 
